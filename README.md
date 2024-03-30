@@ -9,7 +9,7 @@
 - Email: cyrilstrone@gmail.com
 - Telegram: [Telegram](https://t.me/cyrilstrone)
 - GitHub: [GitHub](https://github.com/CyrilStrone)
-- LinkedIn: [GitHub](www.linkedin.com/in/cyrilstrone)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/cyrilstrone)
 
 ## Summary
 I am a person open to communication and new opportunities. Inspired by new technologies, I focus on creating clean code to facilitate efficient teamwork. Seeking a development position where I can enhance my skills and contribute to interesting projects using modern stack. My project experience boosts my confidence in my abilities, and my commitment to quality ensures goal achievement.
