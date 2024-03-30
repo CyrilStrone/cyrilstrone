@@ -17,14 +17,14 @@ I am a person open to communication and new opportunities. Inspired by new techn
 ## Experience
 ### [Seven Winds Studio](https://7winds.mobi/), Novorossiysk, Russia
 #### Frontend Developer | November 2023 - Present
-- Contributed to developing a digital services ecosystem for the construction business Pragmacore.
-- Developed an information system for car wash administration in the Far East region (CarTopic).
+- Contributed to developing a digital services ecosystem for the construction business [Pragmacore](https://pragma.info/).
+- Developed an information system for car wash administration in the Far East region [CarTopic](https://cartopic.7winds.mobi/).
 
 ### [ABS](https://dev-krabs.ru/), Krasnoyarsk, Russia
 #### Frontend Developer | June 2022 - November 2023
-- Created an interactive exhibition presentation.
+- Created an [interactive exhibition presentation](https://portal.acm-4.ru/presentation).
 - Assisted in building an industrial website with dashboards.
-- Developed a CRM system for housing and communal services companies.
+- Developed a [CRM system](https://gkh-info.org) for housing and communal services companies.
 - Configured CMS Strapi for current and future projects.
 
 ## Education
