@@ -1,6 +1,6 @@
 # Kirill Vostrozhenko - Software Engineer
 
-![Krasnoyarsk, Russia](https://img.shields.io/badge/Location-Krasnoyarsk,%20Russia-blue)
+![Earth](https://img.shields.io/badge/Earth-blue)
 ![Ready to move](https://img.shields.io/badge/Status-Ready%20to%20move-green)
 ![Born in 2001](https://img.shields.io/badge/Born-2001-yellow)
 
