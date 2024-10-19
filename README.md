@@ -1,11 +1,8 @@
-# Kirill Vostrozhenko - Frontend Developer
+# Kirill Vostrozhenko - Software Engineer
 
 ![Krasnoyarsk, Russia](https://img.shields.io/badge/Location-Krasnoyarsk,%20Russia-blue)
 ![Ready to move](https://img.shields.io/badge/Status-Ready%20to%20move-green)
 ![Born in 2001](https://img.shields.io/badge/Born-2001-yellow)
-
-[![CyrilStrone's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrilStrone)](https://github.com/CyrilStrone/github-readme-stats)
-
 
 **Contact:**
 - Email: cyrilstrone@gmail.com
