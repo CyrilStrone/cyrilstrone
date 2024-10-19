@@ -1,8 +1,6 @@
 # Kirill Vostrozhenko - Software Engineer
 
-![Earth](https://img.shields.io/badge/Earth-blue)
-![Ready to move](https://img.shields.io/badge/Status-Ready%20to%20move-green)
-![Born in 2001](https://img.shields.io/badge/Born-2001-yellow)
+Only forward!
 
 **Contact:**
 - Email: cyrilstrone@gmail.com
