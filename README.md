@@ -2,6 +2,8 @@
 
 Only forward!
 
+![codewars](https://www.codewars.com/users/CyrilStrone/badges/large)
+
 **Contact:**
 - Email: cyrilstrone@gmail.com
 - Telegram: [Telegram](https://t.me/cyrilstrone)
