@@ -4,6 +4,12 @@
 
 ---
 
+## Badges
+
+<img src="https://www.codewars.com/users/CyrilStrone/badges/large" width="400">
+
+---
+
 ## Contact
 
 - **Email:** cyrilstrone@gmail.com
