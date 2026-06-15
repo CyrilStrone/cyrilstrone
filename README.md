@@ -10,6 +10,7 @@
 
 ## Contact
 
+- **Blog:** [blog.cyrilstrone.com](https://blog.cyrilstrone.com/) — notes about frontend, engineering, and my projects
 - **Email:** cyrilstrone@gmail.com
 - **Telegram:** [Telegram](https://t.me/cyrilstrone)
 - **GitHub:** [GitHub](https://github.com/CyrilStrone)
